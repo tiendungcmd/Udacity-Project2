@@ -1,0 +1,2 @@
+An endpoint URL for a running elastic beanstalk deployment:
+http://project2-dev.us-east-1.elasticbeanstalk.com/
